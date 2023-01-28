@@ -10,6 +10,8 @@ Install node js from https://nodejs.org/en/download/
 
 ```bash
 $ # 1. Clone this repo and navigate to the cloned folder.
+$ git clone git@github.com:Anemy/PROJECT_NAME.git
+$ cd PROJECT_NAME
 $ # 2. Install the server dependencies:
 $ npm install
 ```
